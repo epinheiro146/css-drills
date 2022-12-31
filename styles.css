@@ -1,0 +1,101 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightgrey;
+}
+
+h2, p, .readme-wrapper{
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: forestgreen;
+}
+
+a:hover {
+    cursor: pointer;
+    font-weight: bold;
+    color: fuchsia;
+}
+
+.important-word {
+    color: cornflowerblue;
+    font-weight: bold;
+}
+
+.boxes {
+    margin: 1em;
+    padding: 1em;
+    border: 5px solid rgb(92, 80, 11);
+    border-radius: 10px;
+    width: 30em;
+    display: block;
+}
+
+#box1 {
+    background-color: rgb(176, 176, 239);
+}
+
+#box2 {
+    background-color: orange;
+}
+
+#box3 {
+    background-color: crimson;
+}
+#box4 {
+    background-color: whitesmoke;
+}
+
+.fake-images {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: blueviolet;
+    position: absolute;
+    left: 7em;
+}
+
+h1 {
+    color: darkmagenta;
+}
+
+.original {
+    color: brown;
+}
+
+.additional {
+    color: darkblue;
+}
+
+#show1 {
+    color: rgb(0, 0, 81);
+}
+
+#show2 {
+    color: rgb(20, 20, 121);
+}
+
+#show3 {
+    color: rgb(40, 40, 161);
+}
+
+#show4 {
+    color: rgb(60, 60, 201);
+}
+
+#show5 {
+    color: rgb(80, 80, 241);
+}
+
+ul {
+    color: darkgoldenrod;
+}
+
+.star {
+    color: cadetblue;
+}
+
+#wars {
+    color: deeppink;
+}
